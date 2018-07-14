@@ -1,0 +1,5 @@
+﻿  Brian'sBrainSource.cpp
+c:\users\admin\documents\visual studio 2015\projects\cppprojects\brian's brain\brian's brain\brian'sbrainsource.cpp(23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\documents\visual studio 2015\projects\cppprojects\brian's brain\brian's brain\brian'sbrainsource.cpp(26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Brian's Brain.vcxproj -> C:\Users\admin\documents\visual studio 2015\Projects\CppProjects\Brian's Brain\Debug\Brian's Brain.exe
+  Brian's Brain.vcxproj -> C:\Users\admin\documents\visual studio 2015\Projects\CppProjects\Brian's Brain\Debug\Brian's Brain.pdb (Full PDB)

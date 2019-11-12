@@ -1,7 +1,7 @@
 # Brian-s-Brain
 I use SFML for this project.
 
-Cell turns on ifit was off but had exactly two neighbors that were on.\
+Cell turns on if it was off but had exactly two neighbors that were on.\
 All cells that were "on" go into the "dying" state, which is not counted as an "on" cell in the neighbor count.\
 Cells that were in the dying state go into the off state.
 

@@ -11,3 +11,5 @@ Start figure is draw by clicking on the cell grid. \
 3 clicks - off
 
 Controls : d - start automation, f - clear the cell grid
+
+<img src = "Img1.png" width = "400"> <img src = "Img2.png" width = "400">
